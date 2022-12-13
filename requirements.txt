@@ -1,0 +1,5 @@
+blankly~=1.18.20b0
+plotly~=5.11.0
+numpy~=1.23.5
+alpaca-py~=0.6.1
+pandas~=1.5.2
