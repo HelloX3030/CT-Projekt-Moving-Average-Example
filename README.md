@@ -1,6 +1,6 @@
 # CT-Projekt-Moving-Average-Example
 
-This is a school project of mine, where I tried to create a little trading bot using python and the alpaca trading api. 
+This is a school project of mine, where I tried to create a little trading bot using python and the alpaca stock market api. 
 
 ## Getting started
 
